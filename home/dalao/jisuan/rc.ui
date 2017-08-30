@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>RC</class>
+ <widget class="QDialog" name="RC">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>642</width>
+    <height>677</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="faBtn">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>290</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>父</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="maBtn">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>290</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>母</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="bsBtn">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>290</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Backsapace</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="acBtn">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>290</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>AC</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="xiongBtn">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>380</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>兄</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="jieBtn">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>380</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>姐</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="hanBtn">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>380</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>夫</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="wifeBtn">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>380</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>妻</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="diBtn">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>470</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>弟</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="meiBtn">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>470</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>妹</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="sonBtn">
+   <property name="geometry">
+    <rect>
+     <x>330</x>
+     <y>470</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>子</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="durBtn">
+   <property name="geometry">
+    <rect>
+     <x>480</x>
+     <y>470</y>
+     <width>120</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>女</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="searchBtn">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>570</y>
+     <width>521</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>查</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>120</y>
+     <width>591</width>
+     <height>121</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>250</x>
+     <y>30</y>
+     <width>201</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 75 17pt &quot;Ubuntu Condensed&quot;;</string>
+   </property>
+   <property name="text">
+    <string>辈分计算器</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
